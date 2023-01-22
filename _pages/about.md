@@ -1,7 +1,7 @@
 ---
+permalink: /about/
 layout: page
 title: About
-permalink: /about/
 ---
 
 Hi there, I am a high school student who is passionate about tennis, basketball, math, and reading. I love nothing more than cheering on the New York Giants on game day and solving complex math problems in my spare time. 
