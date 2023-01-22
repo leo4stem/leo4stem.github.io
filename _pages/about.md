@@ -5,7 +5,7 @@ title: About
 ---
 
 **"Education is the most powerful weapon you can use to change the world."** 
-   - Nelson Mandela. 
+   -- Nelson Mandela. 
 
 ### About me
 
