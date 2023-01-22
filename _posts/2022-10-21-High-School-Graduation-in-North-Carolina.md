@@ -1,6 +1,3 @@
-High School Graduation in North Carolina
-================
-
 # Introduction
 
 High school graduation is also a concern for students, parents, and
