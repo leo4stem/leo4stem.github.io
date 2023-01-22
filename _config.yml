@@ -31,7 +31,7 @@ masthead_title           : # overrides the website title displayed in the masthe
 words_per_minute         : 175
 
 header:
-  image                  : "/assets/images/nelson-mandela-quotes.jpg"
+  image                  : "/assets/images/unsplash-image-1.jpg"
 
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
