@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-layout: default
+layout: archive
 title: About me
 ---
 
