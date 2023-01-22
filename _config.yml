@@ -155,7 +155,7 @@ footer:
 # Reading Files
 include:
   - .htaccess
-  - _pages
+  - ["_pages"]
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -218,6 +218,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
+           /about/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
