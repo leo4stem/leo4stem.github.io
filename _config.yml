@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Leo Bai"
 description              : "A research website for reducing poverty and racial disparity"
-url                      : leo4stem.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://leo4stem.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -155,7 +155,7 @@ footer:
 # Reading Files
 include:
   - .htaccess
-  - ["_pages"]
+  - _pages
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
