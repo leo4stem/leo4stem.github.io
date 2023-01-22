@@ -29,10 +29,8 @@ logo                     : "/assets/images/Wake-STEM-atom-logo.png" # path of lo
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 175
-
 header:
   image                  : "/assets/images/unsplash-image-1.jpg"
-
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
