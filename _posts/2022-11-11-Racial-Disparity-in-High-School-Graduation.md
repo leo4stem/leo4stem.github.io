@@ -1,6 +1,3 @@
-Racial Disparity in High School Graduation in North Carolina
-================
-
 # Introduction
 
 High school graduation rates have been steadily increasing in recent
