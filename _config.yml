@@ -30,9 +30,8 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 175
 
-excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
 header:
-  overlay_image          : "/assets/images/nelson-mandela-quotes.jpg"
+  image                  : "/assets/images/nelson-mandela-quotes.jpg"
 
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
