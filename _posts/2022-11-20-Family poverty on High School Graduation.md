@@ -10,7 +10,7 @@ knowledge on whether the gap in graduation rates is reducing over time..
 
 ## Data and Report
 
-Here is my **[report](/P12HSG03.html)** by analyzing high school
+Here is my **[report](/_pages/P12HSG03.html)** by analyzing high school
 graduation in North Carolina. I downloaded the data from [NC
 PDI](https://www.dpi.nc.gov/districts-schools/testing-and-school-accountability/school-accountability-and-reporting/cohort-graduation-rates#4-YearCohortGraduationRates-883).
 The EXCEL file includes high school students and graduates enrolled from
