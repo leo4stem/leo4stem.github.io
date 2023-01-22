@@ -7,6 +7,7 @@ title: About
 **"Education is the most powerful weapon you can use to change the world."** 
    -- Nelson Mandela. 
 
+
 ### About me
 
 Hi there, I am a high school student who is passionate about tennis, basketball, math, and reading. I love nothing more than cheering on the New York Giants on game day and solving complex math problems in my spare time. But let's be real, I also love a good laugh, so if you ever need a pick-me-up just send me an email.
