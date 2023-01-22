@@ -6,7 +6,7 @@ Family Income Disparity in High School Graduation in North Carolina
 High school graduation rates have been steadily increasing in recent
 years, not only for economically disadvantaged students (EDS) and
 non-economically disadvantaged students (non-EDS). But we have little
-knowledge on whether the gap in graduation rates is reducing over time..
+knowledge on the rates for the two groups in recent years and whether the gap in graduation rates is reducing over time.
 
 ## Data and Report
 
@@ -22,7 +22,7 @@ The poverty effect on high school graduation rates for students enrolled
 in North Carolina public schools has been significant over time. Data
 has shown that students from economically disadvantaged students (EDS)
 tend to have lower graduation rates compared to their non economically
-disadvantaged student (NEDS) peers.
+disadvantaged student (NEDS) peers. In addition, the gap has been slightly increasing since 2019.
 
 ## Discussion
 
