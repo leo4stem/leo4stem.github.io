@@ -109,7 +109,7 @@ author:
   name             : "Leo Bai"
   avatar           : "/assets/images/leo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "North Carolina"
+  location         : "Raleigh, North Carolina"
   email            : leo4stem@gmail.com
   links:
     - label: "Email"
