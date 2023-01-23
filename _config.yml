@@ -20,7 +20,7 @@ title                    : "Research"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Leo Bai"
-description              : "A research website for reducing poverty and racial disparity"
+description              : 
 url                      : "https://leo4stem.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Leo Bai"
   avatar           : "/assets/images/leo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I am a high school student who's always looking for an adventure."
   location         : "Raleigh, North Carolina"
   email            : leo4stem@gmail.com
   links:
