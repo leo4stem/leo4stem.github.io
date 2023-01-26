@@ -21,7 +21,7 @@ SY2005-2006 to SY 2021-2022 in NC public schools.
 # Findings
 
 It clearly shows that the high school graduation rate, for each racial
-groups, has been **increasing since 2006** in North Carolina.
+group, has been **increasing since 2006** in North Carolina.
 
 According to the data, Asian students have the highest graduation rate
 among all races. White students have the second highest graduation rate,
