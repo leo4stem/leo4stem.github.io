@@ -21,6 +21,8 @@ has shown that students from economically disadvantaged students (EDS)
 tend to have lower graduation rates compared to their non economically
 disadvantaged student (NEDS) peers. In addition, the gap has been slightly increasing since 2019.
 
+![](/assets/images/P12HSG_PovertyDisparity.png)
+
 ## Discussion
 
 This is likely due to a variety of factors, including lack of access to
