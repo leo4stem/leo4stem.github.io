@@ -28,6 +28,8 @@ among all races. White students have the second highest graduation rate,
 followed by African American students. Hispanic students have the lowest
 graduation rate among these four races.
 
+![](/assets/images/P12HSG_RacialDisparity.png)
+
 It is important to note that these graduation rates may vary depending
 on the specific school or district being considered, as well as other
 factors such as socioeconomic status and access to resources.
