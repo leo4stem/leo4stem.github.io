@@ -38,6 +38,8 @@ SY2005-2006 to SY 2021-2022 in NC public schools.
 
 The high school graduation rate has been increasing since 2006 in North Carolina.  
 
+![](/assets/images/P12HSG_All.png)
+
 # Discussion
 
 I read some articles on high school graduation rate. Some possible
