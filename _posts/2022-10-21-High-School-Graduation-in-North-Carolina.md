@@ -27,7 +27,7 @@ education outcomes for all students.
 
 # Data and Report
 
-Here is my [report](/_pages/P12HSG01.html) by
+Here is my **[report](/_pages/P12HSG01.html)** by
 analyzing high school graduation in North Carolina. I downloaded the
 data from [NC
 PDI](https://www.dpi.nc.gov/districts-schools/testing-and-school-accountability/school-accountability-and-reporting/cohort-graduation-rates#4-YearCohortGraduationRates-883).
