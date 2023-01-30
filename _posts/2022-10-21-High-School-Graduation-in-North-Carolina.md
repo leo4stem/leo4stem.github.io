@@ -1,6 +1,6 @@
 # Introduction
 
-High school graduation is also a concern for students, parents, and
+High school graduation is a great concern for students, parents, and
 policymakers. High school graduation rates have been steadily increasing
 in recent years. According to data from the National Center for
 Education Statistics (NCES), the national graduation rate for public
@@ -36,25 +36,18 @@ SY2005-2006 to SY 2021-2022 in NC public schools.
 
 # Findings
 
-The high school graduation rate has been increasing since 2006 in North Carolina.  
+There are two findings I need tohighlight. First, the high school graduation rate has been increasing since 2006 in North Carolina. Second, the rates has been declining since 2020.  
 
 ![](/assets/images/P12HSG_All.png)
 
 # Discussion
 
-I read some articles on high school graduation rate. Some possible
-reasons include:
+Some possible reasons on increasing graduation rates include:
 
-Improved educational policies and programs: Many states and school
-districts have implemented policies and programs aimed at improving
-graduation rates, such as targeted funding for at-risk students, early
-warning systems to identify students who are struggling academically,
-and interventions to help those students catch up.
-
-Greater emphasis on accountability: With the implementation of the No
-Child Left Behind Act and the Every Student Succeeds Act, schools and
-districts are held more accountable for their graduation rates. This can
-lead to increased efforts to improve graduation rates.
+Improved educational programs: Many states and school
+districts have implemented policies and programs aimed at identifying high-risk students. The early
+warning systems can screen the students who are struggling academically. Then, teachers and schools
+apply interventions to help those students catch up.
 
 Economic factors: A stronger economy can lead to more job opportunities
 for graduates, which can motivate students to stay in school and
@@ -64,6 +57,4 @@ Demographic changes: An increase in the number of students from
 immigrant families, who often have a strong cultural emphasis on
 education, may be contributing to an increase in graduation rates.
 
-It’s important to note that graduation rates can be affected by a
-variety of factors and the reasons for the increase may vary from state
-to state and district to district.
+Finally, I wouldl talk about the decrease in graduation rate since 2020. The main reason come from impact of COVID pandemic. Since 2020 March and April, many states required school closure. Students had to stay home and took online classes. The pandemic negatively affected teaching and learning quality.  
