@@ -36,7 +36,7 @@ SY2005-2006 to SY 2021-2022 in NC public schools.
 
 # Findings
 
-There are two findings I need tohighlight. First, the high school graduation rate has been increasing since 2006 in North Carolina. Second, the rates has been declining since 2020.  
+There are two findings I need to highlight. First, the high school graduation rate has been increasing since 2006 in North Carolina. Second, the rates has been declining since 2020.  
 
 ![](/assets/images/P12HSG_All.png)
 
