@@ -1,7 +1,9 @@
 The National Assessment of Educational Progress (NAEP) is the largest
 nationally representative assessment on mathematics, reading, science,
 and writing. The standard administration practices provides a common and
-useful measure of student achievement. In this post, I will show you how
+useful measure of student achievement. 
+
+In this post, I will show you how
 to use NAEP-provided API to download the NAEP formatted data. You can
 find the detail
 [here](https://www.nationsreportcard.gov/api_documentation.aspx) for
