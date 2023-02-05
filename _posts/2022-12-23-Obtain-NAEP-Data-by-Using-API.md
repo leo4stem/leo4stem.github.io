@@ -14,9 +14,11 @@ Here is an example. I use the URL to read mean score of nation-level Math data i
 -    by GENDER: variable=GENDER  
 -    in 2013 and 2015: Year=2015,2013  
 -    math subject: subject=mathematics  
--    Students in Grade 8: grade=8  
+-    students in Grade 8: grade=8  
+-    nation level: jurisdiction=NP
+-    math score name: subscale=MRPC
 
-`url<-'https://www.nationsreportcard.gov/Dataservice/GetAdhocData.aspx?type=sigacrossjuris&subject=mathematics&grade=8&subscale=MRPCM&variable=GENDER&jurisdiction=NP,CA&stattype=MN%3AMN&Year=2015,2013'`  
+`url<-'https://www.nationsreportcard.gov/Dataservice/GetAdhocData.aspx?type=sigacrossjuris&subject=mathematics&grade=8&subscale=MRPCM&variable=GENDER&jurisdiction=NP&stattype=MN%3AMN&Year=2015,2013'`  
 
 The following is the full code.
 
