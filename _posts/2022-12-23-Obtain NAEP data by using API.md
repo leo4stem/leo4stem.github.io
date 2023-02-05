@@ -1,6 +1,3 @@
-Obtain NAEP data by using API
-================
-
 The National Assessment of Educational Progress (NAEP) is the largest
 nationally representative assessment on mathematics, reading, science,
 and writing. The standard administration practices provides a common and
