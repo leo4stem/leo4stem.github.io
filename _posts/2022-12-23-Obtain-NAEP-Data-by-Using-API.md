@@ -7,7 +7,9 @@ In this post, I will show you how
 to use NAEP-provided API to download the NAEP formatted data. You can
 find the detail
 [here](https://www.nationsreportcard.gov/api_documentation.aspx) for
-further use.
+further information.
+
+
 
     library(RSelenium)
     library(netstat)
