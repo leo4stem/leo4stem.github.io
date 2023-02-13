@@ -20,7 +20,7 @@ Here is an example. I use the URL to read mean score of nation-level Math data i
 
 `url<-'https://www.nationsreportcard.gov/Dataservice/GetAdhocData.aspx?type=sigacrossjuris&subject=mathematics&grade=8&subscale=MRPCM&variable=GENDER&jurisdiction=NP&stattype=MN%3AMN&Year=2015,2013'`  
 
-The following is the full code, which I write to download the NAEP data in national level and state level math and reading performance for Grade 4 and 8 during the period from 1996 to 2022.
+The following is the full code, which I write to download the NAEP data about math and reading performance in national level and state level for Grade 4 and 8 during the period from 1996 to 2022.
 
 
     library(RSelenium)
