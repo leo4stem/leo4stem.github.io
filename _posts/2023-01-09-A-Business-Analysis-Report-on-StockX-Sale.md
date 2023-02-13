@@ -46,7 +46,7 @@ The graph mostly supports the idea that the longer shoe is kept, the more profit
 ![](/assets/images/StockX_relation_btw_profit_days.png)  
 
 ## What factors affect profits?  
-This graph shows bi-relationships between the factors. Blue means positive relationship, while orange means negative relationship. In addition, circle size shows the magnitude of the relationship. A great profits is associated with a great sale price and a low retail price. But it seems not related to shoe size and time to keep.  
+This graph shows bi-relationships between the factors. Blue means a positive relationship, while orange means a negative relationship. In addition, circle size shows the magnitude of the relationship. A great profits is associated with a great sale price and a low retail price. But it seems not related to shoe size and time to keep.  
 
 ![](/assets/images/StockX_relation_btw_profit_allfactor.png)  
 
