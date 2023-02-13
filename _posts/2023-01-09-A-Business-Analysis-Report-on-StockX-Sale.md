@@ -52,4 +52,3 @@ This graph shows bi-relationships between the factors. Blue means positive relat
 
 
 
-## Discusion  
