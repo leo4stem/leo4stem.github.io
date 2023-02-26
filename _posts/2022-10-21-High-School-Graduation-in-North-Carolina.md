@@ -49,12 +49,12 @@ districts have implemented policies and programs aimed at identifying high-risk 
 warning systems can screen the students who are struggling academically. Then, teachers and schools
 apply interventions to help those students catch up.
 
-Economic factors: A stronger economy can lead to more job opportunities
-for graduates, which can motivate students to stay in school and
+Another contribution comes from a stronger economy. It provides more job opportunities
+for people with high school diploma, so that students are willing to stay in school and
 graduate.
 
-Demographic changes: An increase in the number of students from
-immigrant families, who often have a strong cultural emphasis on
-education, may be contributing to an increase in graduation rates.
+Demographic change is one of the explanations. The number of students from
+immigrant families has been increasing since decades. Their families often have a strong cultural emphasis on
+education. It contributs to an increase in graduation rates.
 
 Finally, I wouldl talk about the decrease in graduation rate since 2020. The main reason come from impact of COVID pandemic. Since 2020 March and April, many states required school closure. Students had to stay home and took online classes. The pandemic negatively affected teaching and learning quality.  
